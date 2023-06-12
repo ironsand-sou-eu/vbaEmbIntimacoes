@@ -1,6 +1,8 @@
 # vbaEmbIntimacoes
 VBA application directed to specific situation/client, not useful for general public - data scrapping and preparation for existing lawsuits' communications
 
+_PS: Integration to online backend pending_
+
 The whole application is divided into 4 main responsibilities, with the non-class modules identified as follows:
 
 1. Data gathering (modules starting with "sfColDad"): user inputs and gathering/scrapping on lawcourts and client's inner systems.
